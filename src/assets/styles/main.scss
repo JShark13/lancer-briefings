@@ -10,6 +10,10 @@ $secondary: rgba(224, 224, 224, 0.8);
 $highlight-hover: rgba(255, 255, 255, 0.5);
 $highlight-active: rgba(255, 255, 255, 0.2);
 
+//Header Text
+$title-headers: rgba(255, 255, 255, 1);
+$section-headers: rgba(255, 255, 255, 1);
+
 //Primary Text
 $text-headers: rgba(255, 255, 255, 1);
 $text-location: rgba(0, 0, 0, 0.87);
@@ -122,6 +126,7 @@ header {
   }
 
   #title-header {
+    color: $title-headers;
     font-size: 32px;
     margin: 0%;
     align-self: center;
@@ -132,6 +137,7 @@ header {
   }
 
   #title-subheader {
+    color: $title-headers;
     font-size: 32px;
     margin: 0%;
     align-self: center;
@@ -143,6 +149,7 @@ header {
   }
 
   #subtitle-header {
+    color: $title-headers;
     font-size: 24px;
     margin: 0%;
     align-self: center;
@@ -153,6 +160,7 @@ header {
   }
 
   #subtitle-subheader {
+    color: $title-headers;
     font-size: 24px;
     margin: 0%;
     align-self: center;

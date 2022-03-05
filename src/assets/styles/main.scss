@@ -182,7 +182,7 @@ header {
 }
 
 #title-first-line {
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #fff;
 }
 
 .rhombus {
@@ -323,6 +323,7 @@ section .section-header {
   }
 
   h1 {
+    color: $section-headers;
     font-size: 26px;
     margin: 0%;
     align-self: center;

@@ -140,6 +140,30 @@ export default {
           "frame": "Everest",
           "mech": "Rio Bravo"
         },
+        {
+          "callsign": "Null",
+          "alias": 'ERR-NO_DATA',
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "ERR-NO_DATA"
+        },
+        {
+          "callsign": "Nu1l",
+          "alias": 'ERR-N0_DATA',
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "ERR-N0_DATA"
+        },
+        {
+          "callsign": "Nul1",
+          "alias": '3RR-NO_DATA',
+          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "3RR-NO_DATA"
+        },
       ],
       "header": {
         "planet": "Hercynia",

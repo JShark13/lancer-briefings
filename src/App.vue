@@ -101,28 +101,52 @@ export default {
       ],
       "pilots": [
         {
+          "callsign": "Daedalus",
+          "alias": 'Falkner Daedo',
+          "code": "d8754162-839d-4fc2-b4ad-5466312aae96//40e03174-6acd-48e5-befa-57dd759f6381",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Old Dawg"
+        },
+        {
+          "callsign": "Null",
+          "alias": 'Hans Paiz',
+          "code": "8e46504c-fedc-458f-aacb-6703aec0d4c2//5c0f5347-a01a-4ea1-9dd6-c85e7b1da357",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Humans Need Not Apply"
+        },
+        {
+          "callsign": "Null",
+          "alias": 'Myriel Patete',
+          "code": "89fed27a-842a-4b43-924e-44ab686a6bf2//ea874d99-890e-419b-a572-a4b661a299da",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Unwelcome Advice"
+        },
+        {
+          "callsign": "Null",
+          "alias": 'Nicolae Mitrea',
+          "code": "edc0caa7-0431-426d-8c91-dd2b0e622685//da17f4ca-65f6-4866-84ac-75b12eccddff",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Grim Herculean Task"
+        },
+        {
+          "callsign": "Cursed",
+          "alias": 'Tazlo the 13056th',
+          "code": "da25211a-24ba-44fe-87fe-52508d850b87//3fd4da31-7a63-44d8-a895-4d9df50aa2bb",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Trick or Treat"
+        },
+        {
           "callsign": "Null",
           "alias": 'ERR-NO_DATA',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "code": "ERR-OMNINET_CONNECTION_NOT_FOUND-PLEASE_ATTEMPT_REBOOT",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "ERR-NO_DATA"
-        },
-        {
-          "callsign": "Nu1l",
-          "alias": 'ERR-NO_DATA',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "ERR-N0_DATA"
-        },
-        {
-          "callsign": "Nul1",
-          "alias": 'ERR-NO_DATA',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "3RR-NO_DATA"
         },
       ],
       "header": {

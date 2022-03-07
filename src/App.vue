@@ -142,11 +142,11 @@ export default {
         },
         {
           "callsign": "Null",
-          "alias": 'ERR-NO_DATA',
-          "code": "ERR-OMNINET_CONNECTION_NOT_FOUND-PLEASE_ATTEMPT_REBOOT",
+          "alias": 'ERR_NO_DATA',
+          "code": "ERR_OMNINET_CONNECTION_NOT_FOUND_..._ATTEMPTING_REBOOT_..._REBOOT_UNSUCCESSFUL",
           "corpro": "GMS",
           "frame": "Everest",
-          "mech": "ERR-NO_DATA"
+          "mech": "ERR_NO_DATA"
         },
       ],
       "header": {

@@ -141,6 +141,14 @@ export default {
           "mech": "Trick or Treat"
         },
         {
+          "callsign": "Red",
+          "alias": 'ERR_NO_DATA',
+          "code": "6f33360c-d670-476f-bf55-96385cb26c1e//7f176550-6518-4388-bb46-6e404ea10b35",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "A Thousand Lives"
+        },
+        {
           "callsign": "Null",
           "alias": 'ERR_NO_DATA',
           "code": "ERR_OMNINET_CONNECTION_NOT_FOUND_..._ATTEMPTING_REBOOT_..._REBOOT_UNSUCCESSFUL",

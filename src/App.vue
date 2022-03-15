@@ -101,7 +101,7 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Daedalus",
+          "callsign": "Printloaf",
           "alias": 'Falkner Daedo',
           "code": "d8754162-839d-4fc2-b4ad-5466312aae96//40e03174-6acd-48e5-befa-57dd759f6381",
           "corpro": "GMS",

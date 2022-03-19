@@ -142,7 +142,7 @@ export default {
         },
         {
           "callsign": "Red",
-          "alias": 'ERR_NO_DATA',
+          "alias": 'Panto Albert',
           "code": "6f33360c-d670-476f-bf55-96385cb26c1e//7f176550-6518-4388-bb46-6e404ea10b35",
           "corpro": "GMS",
           "frame": "Everest",

@@ -89,14 +89,14 @@ export default {
 
   data() {
     return {
-      "mission_slug": "001",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "001",
           "name": "Bug-Hunt",
-          "status": "start"
+          "status": "success"
         },
       ],
       "pilots": [
@@ -109,15 +109,15 @@ export default {
           "mech": "Old Dawg"
         },
         {
-          "callsign": "Null",
+          "callsign": "Looker",
           "alias": 'Hans Paiz',
           "code": "8e46504c-fedc-458f-aacb-6703aec0d4c2//5c0f5347-a01a-4ea1-9dd6-c85e7b1da357",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Humans Need Not Apply"
+          "frame": "Sagarmatha",
+          "mech": "You Are Not Immune"
         },
         {
-          "callsign": "Null",
+          "callsign": "Majesty",
           "alias": 'Myriel Patete',
           "code": "89fed27a-842a-4b43-924e-44ab686a6bf2//ea874d99-890e-419b-a572-a4b661a299da",
           "corpro": "GMS",
@@ -125,7 +125,7 @@ export default {
           "mech": "Unwelcome Advice"
         },
         {
-          "callsign": "Null",
+          "callsign": "Swamp",
           "alias": 'Nicolae Mitrea',
           "code": "edc0caa7-0431-426d-8c91-dd2b0e622685//da17f4ca-65f6-4866-84ac-75b12eccddff",
           "corpro": "GMS",

@@ -98,7 +98,6 @@ export default {
           "name": "Bug-Hunt",
           "status": "success"
         },
-      "missions": [
         {
           "slug": "002",
           "name": "Vigilant Gaze",

@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "002",
+      "mission_slug": "003",
       "current_md": "",
       "events": "",
       "missions": [
@@ -101,6 +101,16 @@ export default {
         {
           "slug": "002",
           "name": "Vigilant Gaze",
+          "status": "success"
+        },
+        {
+          "slug": "003",
+          "name": "Floodgate",
+          "status": "success"
+        },
+        {
+          "slug": "004",
+          "name": "ERR:DATA_CORRUPT // Please Verify Data",
           "status": "start"
         },
       ],
